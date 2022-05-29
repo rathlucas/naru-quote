@@ -1,8 +1,8 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import { Quotes } from './Quotes';
 
-const quote = 'test;';
-const speaker = 'test speaker';
+const quote = 'test';
+const speaker = 'speaker';
 
 test('renders received quote, a speaker, and a button ', () => {
   render(<Quotes quote={quote} speaker={speaker} />);
