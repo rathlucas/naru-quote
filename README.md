@@ -1,4 +1,6 @@
 # NARUTO QUOTE GENERATOR
+![image](https://user-images.githubusercontent.com/79475372/170888200-5e76249d-e2fb-4d7b-964d-beb52de93005.png)
+
 
 ## Descrição
 
